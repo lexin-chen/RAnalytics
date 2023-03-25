@@ -1,4 +1,4 @@
-## RAnalytic: Statistical test using R
+## Empowering Your Analytics with R
 
 This repo contains my statistical analysis test from the chm6165. Some of the mathematical methods involved in each directory are listed.
 
