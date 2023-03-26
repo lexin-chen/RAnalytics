@@ -1,6 +1,6 @@
 ## Empowering Your Analytics with R
 
-This repo contains my statistical analysis test from the chm6165, all written in R. Some of the mathematical methods involved in each directory are listed.
+This repo contains multiple statistical methods from the chm6165, all written in R. Some of the mathematical methods involved in each directory are listed.
 
 - **Correlation** - correlation matrix, corrgram.
 - **Independent t-test** - checking normality, homoscedasticity, qqplot.
